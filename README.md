@@ -16,7 +16,7 @@ This is a simple CLI tool for managing courses. It allows you to add new courses
 1. **Clone the repository**:
 
     ```sh
-     https://github.com/Abdallah-        Mobarak/Course-Management-CLI-      Tool.git
+     https://github.com/Abdallah-Mobarak/Course-Management-CLI-Tool.git
     ```
 
 2. **Navigate to the project directory**:
